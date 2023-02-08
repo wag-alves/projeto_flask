@@ -15,3 +15,7 @@ $ export FLASK_APP=main
    4 history
    
    5 python -m pip freeze > requirements.txt
+
+   git config --global user.name 'nome'
+
+   git config --global user.email 'email'
